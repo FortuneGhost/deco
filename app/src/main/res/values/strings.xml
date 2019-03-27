@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DecoTest</string>
+    <string name="login">USER LOGIN</string>
+    <string name="regcom">Send Complaint</string>
+    <string name="synno">System Number</string>
+    <string name="studlog">You are logged in as student</string>
+    <string name="studcomp">Type your complaints here</string>
+    <string name="usr">User Name</string>
+    <string name="pass">Password</string>
+    <string name="btn">Sign In</string>
+    <string name="txt">Scan Barcode</string>
+    <string name="upd">Update Information</string>
+    <string name="info">System Information</string>
+    <string name="cmpl">Complaints</string>
+
+</resources>

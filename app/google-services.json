@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395910599021",
+    "firebase_url": "https://deco-f8019.firebaseio.com",
+    "project_id": "deco-f8019",
+    "storage_bucket": "deco-f8019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395910599021:android:778c4459a7e50011",
+        "android_client_info": {
+          "package_name": "com.example.decotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395910599021-oe4lbclb02ejkouo7e78e3kavpds963h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.decotest",
+            "certificate_hash": "20184f8cb82ab839aff905e64baa298d53976c0b"
+          }
+        },
+        {
+          "client_id": "395910599021-jh5jak9nglo80bnmc0k1pa91vtn1lnoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylml2zXUwMSCJybYo3V37k6feHYOkTxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395910599021-jh5jak9nglo80bnmc0k1pa91vtn1lnoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
